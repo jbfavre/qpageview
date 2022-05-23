@@ -1,0 +1,2 @@
+# Upstream doesn't provide signed tags or releases
+python-qpageview source: debian-watch-does-not-check-gpg-signature *
