@@ -1,0 +1,5 @@
+python-qpageview (0.6.2-1) unstable; urgency=medium
+
+  * import qpageview_0.6.2.orig.tar.gz
+
+ -- Jean Baptiste Favre <debian@jbfavre.org>  Mon, 23 May 2022 10:46:39 +0200
