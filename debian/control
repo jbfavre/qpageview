@@ -15,8 +15,11 @@ Vcs-Browser: https://salsa.debian.org/python-team/packages/python-qpageview
 Package: python3-qpageview
 Architecture: all
 Depends: ${python3:Depends}, ${misc:Depends}
-Description: Python frobnicator (Python 3)
- This package qpageview provides a page based document
- viewer widget for Qt5/PyQt5.
+Description: qpageview provides a document viewer widget for Qt5/PyQt5
+ qpageview is a versatile View widget with many optional
+ mixin classes to cater for anything between basic or powerful
+ functionality while preserving performances displaying
+ large PDF document, rendering in a background thread
+ with smart priority control.
  .
  This package installs the library for Python 3.
