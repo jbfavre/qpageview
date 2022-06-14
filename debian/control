@@ -3,8 +3,10 @@ Section: python
 Priority: optional
 Maintainer: Debian Python Team <team+python@tracker.debian.org>
 Uploaders: Jean Baptiste Favre <debian@jbfavre.org>
-Build-Depends: debhelper-compat (= 13), dh-python,
-               python3-all, python3-setuptools,
+Build-Depends: debhelper-compat (= 13),
+               dh-sequence-python3,
+               python3-all,
+               python3-setuptools,
                python3-pyqt5.qtsvg
 Standards-Version: 4.6.1
 Rules-Requires-Root: no
