@@ -1,9 +1,9 @@
-python-qpageview (0.6.2-4) UNRELEASED; urgency=medium
+python-qpageview (0.6.2-4) unstable; urgency=medium
 
   [ Debian Janitor ]
   * Update renamed lintian tag names in lintian overrides.
 
- -- Jelmer Vernooĳ <jelmer@debian.org>  Mon, 21 Nov 2022 12:45:14 +0000
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Mon, 21 Nov 2022 12:45:15 +0000
 
 python-qpageview (0.6.2-3) unstable; urgency=medium
 
