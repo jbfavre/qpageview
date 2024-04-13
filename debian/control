@@ -9,7 +9,7 @@ Build-Depends: debhelper-compat (= 13),
                python3-setuptools,
                python3-pyqt5,
                python3-pyqt5.qtsvg
-Standards-Version: 4.6.1
+Standards-Version: 4.7.0
 Rules-Requires-Root: no
 Testsuite: autopkgtest-pkg-python
 Homepage: https://github.com/frescobaldi/qpageview
